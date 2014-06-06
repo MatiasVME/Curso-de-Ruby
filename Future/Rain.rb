@@ -70,5 +70,3 @@ while TRUE
   refresh
   sleep(0.5)
 end
-
-# end of main 
