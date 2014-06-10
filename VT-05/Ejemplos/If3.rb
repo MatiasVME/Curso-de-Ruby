@@ -1,4 +1,6 @@
 
+# Saber si un usuario esta registrado o no
+
 print 'Ingrese su nombre de usuario: '
 usuario = gets.chomp
 
