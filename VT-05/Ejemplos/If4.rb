@@ -1,5 +1,5 @@
 
-# Uso de operadores lógicos and y or
+# Uso de operadores lógicos and
 
 print 'Ingrese un número del 1 al 7: '
 num = gets.chomp.to_i
