@@ -1,3 +1,4 @@
+
 =begin
 	Cree un array con los siguientes elementos:
 	6, 5, -4, 8
