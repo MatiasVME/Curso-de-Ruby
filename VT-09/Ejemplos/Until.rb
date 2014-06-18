@@ -1,7 +1,7 @@
 
 resp = ""
 
-until resp == 'salir'
+until resp == "salir"
 	puts "¿Qué desea hacer?"
 	resp = gets.chomp
 
