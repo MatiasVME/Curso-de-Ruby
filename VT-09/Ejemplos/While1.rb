@@ -1,7 +1,7 @@
 
 i = 1
 
-while i <= 10
+begin
 	puts i
-	i += 1
-end
+	i = i + 1
+end while i == "hola"
